@@ -184,7 +184,7 @@ height: 100vh;
   padding: 100px 170px;
   display: flex;
   justify-content: center;
-  margin: 50px;
+  margin: 5px;
 }
 
 @media screen and (max-width: 768px) {
@@ -227,4 +227,36 @@ a {
 
 .smaller-button {
   height: 4vh;
+}
+
+.container {
+
+  height: 20vh;
+  display: flex;
+  
+  align-items: center;
+}
+
+.link {
+  height: 70px;
+  width: 70px;
+
+  border-radius: 35px;
+  text-align: center;
+  margin: 7px;
+  line-height: 80px;
+}
+
+a i {
+  transition: all 0.3s linear;
+}
+
+a:hover i {
+  transform: scale(1.2);
+}
+
+@media (max-width: 400px) {
+  .actual-section-content {
+    display: block;
+  }
 }

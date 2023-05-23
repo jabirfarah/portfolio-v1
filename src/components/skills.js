@@ -7,8 +7,8 @@ const skills = () => {
     <section className='d-flex justify-content-center mx-5 a-section'>
         <div className='section-title mx-5'>Skills</div>
         <div className='w-100 section-content'>
-            <div className='d-flex justify-content-between'>
-                <div className='px-1'>
+            <div className='d-flex actual-section-content'>
+                <div className='px-4'>
                     <div className='fw-bold'>Languages</div>
                     <ul className='skill-cate p-0'>
                         <li>Javascript</li>
@@ -18,19 +18,19 @@ const skills = () => {
                         <li>Python</li>
                         <li>SQL</li>
                         <li>R</li>
+                        <li>Swift</li>
                     </ul>
                 </div>
-                <div className='px-1 '>
+                <div className='px-4 '>
                     <div className='fw-bold'>Frameworks</div>
                     <ul className='skill-cate p-0'>
-                        <li>
-            <i class="devicon-adonisjs-original"></i>
-          React</li>
+                        <li>React</li>
                         <li>Node</li>
                         <li>Wordpress</li>
+                        <li>SwitftUI</li>
                     </ul>
                 </div>
-                <div className='px-1 '>
+                <div className='px-4 '>
                     <div className='fw-bold'>Tools</div>
                     <ul className='skill-cate p-0'>
                         <li>Bash</li>
@@ -41,16 +41,7 @@ const skills = () => {
                         <li>Firebase</li>
                     </ul>
                 </div>
-                <div className='px-1 '>
-                    <div className='fw-bold'>Tools</div>
-                    <ul className='skill-cate p-0'>
-                        <li>Bash</li>
-                        <li>Github & Git</li>
-                        <li>Chrome DevTools</li>
-                        <li>Postman</li>
-                        <li>MongoDB</li>
-                    </ul>
-                </div>
+                
             </div>
         </div>
     </section>
