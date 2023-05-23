@@ -12,7 +12,7 @@ const projects = () => {
                 </div>
                 <p className="project-desc">A Hackathon project with a fully featured Discord geography bot featuring several games to play. </p>
                 <div className="project-buttons">
-                    <span className="btn btn-sm btn-outline-light mx-1 smaller-button">Python</span>
+                    <span className="btn btn-sm btn-outline-light mx-1">Python</span>
                     <span className="btn btn-sm btn-outline-light mx-1">Discord API</span>
                 </div>
             </div>
