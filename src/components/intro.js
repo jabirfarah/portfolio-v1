@@ -6,7 +6,7 @@ const intro = () => {
     <header class="intro d-flex flex-column justify-content-around m-3">
         <h1 class="intro_hello">Hello! <span class="emoji wave-emoji-animation">👋</span></h1>
         <h2 class="intro-something">I'm <span class="name">Jabir Farah</span>, a full-stack engineer focused on building beautiful experiences through code 👨🏿‍💻</h2>
-        <p><a class="fw-800 btn btn-outline-light btn-lg" href="https" target="_blank" rel="noreferrer">View Resume <i class="fas fa-arrow-right"></i></a></p>
+        <p><a class="fw-800 btn btn-outline-light btn-lg" href="https://jabirfarah.github.io/portfolio-v1/pdf/Jabir-Farah-Resume.pdf" target="_blank" rel="noreferrer">View Resume <i class="fas fa-arrow-right"></i></a></p>
     </header>
     </>
   )
