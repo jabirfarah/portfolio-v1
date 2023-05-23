@@ -7,7 +7,7 @@ const skills = () => {
     <section className='d-flex justify-content-center mx-5 a-section'>
         <div className='section-title mx-5'>Skills</div>
         <div className='w-100 section-content'>
-            <div className='d-flex actual-section-content'>
+            <div className='d-sm-flex actual-section-content'>
                 <div className='px-4'>
                     <div className='fw-bold'>Languages</div>
                     <ul className='skill-cate p-0'>

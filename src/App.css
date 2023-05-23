@@ -120,14 +120,38 @@ input:checked + .slider:before {
 
 .intro {
 
-padding: 100px;
+padding: 80px;
 box-sizing: inherit;
 height: 100vh;
 }
 
 .intro_hello {
   font-weight: 500;
-  font-size: 2.5rem;
+  font-size: 3rem;
+}
+
+@media screen and (max-width: 480px) {
+.intro {
+    padding: 70px 50px;
+    text-align: center;
+}
+}
+@media screen and (max-width: 550px) {
+.intro {
+    padding: 120px 50px;
+}
+}
+@media screen and (max-width: 630px) {
+.intro {
+    padding: 120px 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    
+}
 }
 .intro-something {
     font-size: 2.5rem;
@@ -231,9 +255,9 @@ a {
 
 .container {
 
-  height: 20vh;
-  display: flex;
+  height: 10vh;
   
+  padding: 0;
   align-items: center;
 }
 
@@ -241,9 +265,9 @@ a {
   height: 70px;
   width: 70px;
 
-  border-radius: 35px;
-  text-align: center;
-  margin: 7px;
+  
+  text-align: left;
+  margin-right: 20px;
   line-height: 80px;
 }
 
