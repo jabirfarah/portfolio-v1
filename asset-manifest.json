@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.addbea9c.css",
-    "main.js": "/portfolio-v1/static/js/main.4e2997d6.js",
+    "main.css": "/portfolio-v1/static/css/main.76484aa0.css",
+    "main.js": "/portfolio-v1/static/js/main.d63ab9ab.js",
     "static/media/Jabir-Farah-Resume.pdf": "/portfolio-v1/static/media/Jabir-Farah-Resume.f3e56133b60a6c4ac548.pdf",
     "index.html": "/portfolio-v1/index.html",
-    "main.addbea9c.css.map": "/portfolio-v1/static/css/main.addbea9c.css.map",
-    "main.4e2997d6.js.map": "/portfolio-v1/static/js/main.4e2997d6.js.map"
+    "main.76484aa0.css.map": "/portfolio-v1/static/css/main.76484aa0.css.map",
+    "main.d63ab9ab.js.map": "/portfolio-v1/static/js/main.d63ab9ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.addbea9c.css",
-    "static/js/main.4e2997d6.js"
+    "static/css/main.76484aa0.css",
+    "static/js/main.d63ab9ab.js"
   ]
 }
